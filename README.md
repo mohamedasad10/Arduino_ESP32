@@ -1,6 +1,6 @@
 # Arduino_ESP32
 
-![Sensor Data](SensorsReadingData.png)
+![Sensor Data](SensorsReadingData.jpeg)
 ## Project Overview
 
 This repository contains several ESP32 Arduino sketches related to sensor data collection and communication using ESP-NOW:
